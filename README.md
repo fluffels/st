@@ -1,3 +1,8 @@
+Personal st Fork
+================
+
+Since st uses a config.h for configuration, I keep a fork for personal use here.
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
